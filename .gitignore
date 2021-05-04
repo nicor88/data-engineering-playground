@@ -1,0 +1,3 @@
+snowflake_terraform/.terraform
+snowflake_terraform/.terraform.lock.hcl
+snowflake_terraform/terraform.tfstate
